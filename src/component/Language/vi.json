@@ -1,0 +1,28 @@
+{
+    "header": {
+        "header1": "Trang Chủ",
+        "header2": "Chúng tôi là ai",
+        "header3": "Chúng tôi làm gì",
+        "header4": "Làm thế nào",
+        "header5": "Tại sao",
+        "header6": "Tin mới",
+        "header7": "Liên hệ",
+        "header8": {
+            "test": "Kiểm tra"
+        }
+    },
+    "main": {
+        "title": "Giá trị và sự tin cậy",
+        "textone": "Hồ sơ theo dõi",
+        "infor1": "30 dự án sáng tạo được giao",
+        "infor2": "Khách hàng từ Mỹ, Canada, Úc, Anh, Bỉ, Đan Mạch, Thụy Điển, Áo, Nhật Bản, Thái Lan, v.v.",
+        "infor3": "Ứng dụng công nghệ mới trong Tài chính, Chăm sóc sức khỏe, Hậu cần, Tiếp thị, Ô tô, Giáo dục, Nhân sự, Nông nghiệp, An ninh, Thiết bị điện tử, v.v.",
+        "titletext1": "Đối tác đổi mới đáng tin cậy của bạn",
+        "infor4": "Quy trình chất lượng và bảo mật được thiết lập tốt (ISO 27001, CMMi)",
+        "infor5": "Dịch vụ đổi mới từ đầu đến cuối: nghiên cứu khả thi kỹ thuật, nguyên mẫu, thiết kế kiến trúc, phát triển và thử nghiệm sản phẩm, hỗ trợ sản xuất, v.v.",
+        "titletext2": "Đội ngũ tài năng",
+        "infor7": "300 kỹ sư AI / ML, Dữ liệu lớn, Blockchain, IoT",
+        "infor8": "Hợp tác chặt chẽ với 35 trường đại học hàng đầu",
+        "infor9": "Hơn 100 sinh viên thực tập mỗi năm"
+    }
+}

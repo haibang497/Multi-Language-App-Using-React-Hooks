@@ -1,0 +1,254 @@
+.footer {
+    margin-top: 50px;
+    .logo {
+        width: 230px;
+        margin-bottom: 30px;
+        margin-top: 50px;
+    }
+    .information {
+        display: inline-flex;
+        .col1 {
+            text-align: left;
+            width: 400px;
+            padding: 0px 15px;
+            .col1-detail {
+                display: inline-flex;
+                .title1 {
+                    padding: 0px 15px 0px 0px;
+                }
+                .detail1 {
+                    padding: 0px 15px;
+                }
+            }
+            .col1-detail-2 {
+                display: inline-flex;
+                .title2 {
+                    padding: 0px 15px 0px 0px;
+                }
+                .detail2 {
+                    padding: 0px 35px;
+                }
+            }
+        }
+        .col2 {
+            text-align: left;
+            width: 450px;
+            padding: 0px 15px;
+            display: inline-flex;
+            .title {
+                padding: 0px 15px;
+                strong {
+                    width: 100px;
+                }
+            }
+            .detail3 {
+                margin: 0px;
+                padding: 0px 0px 0px 15px;
+                font-size: 14px;
+                p {
+                    display: inline-flex;
+                    margin: 5px;
+                    width: 350px;
+                    font-weight: normal;
+                    strong {
+                        width: 150px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .footer {
+        margin-top: 50px;
+        .logo {
+            width: 230px;
+            margin-bottom: 30px;
+            margin-top: 50px;
+        }
+        .information {
+            max-width: 767px;
+            display: inline-flex;
+            .col1 {
+                text-align: left;
+                width: 400px;
+                padding: 0px 15px;
+                .col1-detail {
+                    display: inline-flex;
+                    .title1 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail1 {
+                        padding: 0px 15px;
+                    }
+                }
+                .col1-detail-2 {
+                    display: inline-flex;
+                    .title2 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail2 {
+                        padding: 0px 35px;
+                    }
+                }
+            }
+            .col2 {
+                text-align: left;
+                width: 450px;
+                padding: 0px 15px;
+                display: inline-flex;
+                .title {
+                    padding: 0px 15px;
+                    strong {
+                        width: 100px;
+                    }
+                }
+                .detail3 {
+                    margin: 0px;
+                    padding: 0px 0px 0px 15px;
+                    font-size: 14px;
+                    p {
+                        display: inline-flex;
+                        margin: 5px;
+                        width: 350px;
+                        font-weight: normal;
+                        strong {
+                            width: 150px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 991px) and (min-width:768px) {
+    .footer {
+        margin-top: 50px;
+        .logo {
+            width: 230px;
+            margin-bottom: 30px;
+            margin-top: 50px;
+        }
+        .information {
+            max-width: 991px;
+            min-width: 768px;
+            display: inline-flex;
+            .col1 {
+                text-align: left;
+                width: 400px;
+                padding: 0px 15px;
+                .col1-detail {
+                    display: inline-flex;
+                    .title1 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail1 {
+                        padding: 0px 15px;
+                    }
+                }
+                .col1-detail-2 {
+                    display: inline-flex;
+                    .title2 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail2 {
+                        padding: 0px 35px;
+                    }
+                }
+            }
+            .col2 {
+                text-align: left;
+                width: 450px;
+                padding: 0px 15px;
+                display: inline-flex;
+                .title {
+                    padding: 0px 15px;
+                    strong {
+                        width: 100px;
+                    }
+                }
+                .detail3 {
+                    margin: 0px;
+                    padding: 0px 0px 0px 15px;
+                    font-size: 14px;
+                    p {
+                        display: inline-flex;
+                        margin: 5px;
+                        width: 350px;
+                        font-weight: normal;
+                        strong {
+                            width: 150px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1199px) and (min-width:992px) {
+    .footer {
+        margin-top: 50px;
+        .logo {
+            width: 230px;
+            margin-bottom: 30px;
+            margin-top: 50px;
+        }
+        .information {
+            max-width: 1199px;
+            min-width: 992px;
+            display: inline-flex;
+            .col1 {
+                text-align: left;
+                width: 400px;
+                padding: 0px 15px;
+                .col1-detail {
+                    display: inline-flex;
+                    .title1 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail1 {
+                        padding: 0px 15px;
+                    }
+                }
+                .col1-detail-2 {
+                    display: inline-flex;
+                    .title2 {
+                        padding: 0px 15px 0px 0px;
+                    }
+                    .detail2 {
+                        padding: 0px 35px;
+                    }
+                }
+            }
+            .col2 {
+                text-align: left;
+                width: 450px;
+                padding: 0px 15px;
+                display: inline-flex;
+                .title {
+                    padding: 0px 15px;
+                    strong {
+                        width: 100px;
+                    }
+                }
+                .detail3 {
+                    margin: 0px;
+                    padding: 0px 0px 0px 15px;
+                    font-size: 14px;
+                    p {
+                        display: inline-flex;
+                        margin: 5px;
+                        width: 350px;
+                        font-weight: normal;
+                        strong {
+                            width: 150px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

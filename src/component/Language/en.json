@@ -1,0 +1,28 @@
+{
+    "header": {
+        "header1": "Home",
+        "header2": "Who We Are",
+        "header3": "What we do",
+        "header4": "How We Do It",
+        "header5": "Why Us",
+        "header6": "News",
+        "header7": "Contact Us",
+        "header8": {
+            "test": "Test"
+        }
+    },
+    "main": {
+        "title": "Our Realibility",
+        "textone": "Track Record",
+        "infor1": "30 innovative projects delivered",
+        "infor2": "Clients from USA, Canada, Australia, UK, Belgium, Denmark, Sweden, Austria, Japan, Thailand, etc.",
+        "infor3": "Applied new tech in Finance, Healthcare, Logistics, Marketing, Automotive, Education, Human Resource, Agriculture, Security, Electronic devices, etc.",
+        "titletext1": "Your Reliable Innovation Partner",
+        "infor4": "Well-established quality and security processes (ISO 27001, CMMi)",
+        "infor5": "End-to-end innovation services: technical feasibility study, prototype, architectural design, product development & testing, production support, etc.",
+        "titletext2": "Talented Team",
+        "infor7": "300 AI/ML, Big Data, Blockchain, IoT engineers",
+        "infor8": "Working closely with 35 top universities",
+        "infor9": "More than 100 interns a year"
+    }
+}

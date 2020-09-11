@@ -1,0 +1,94 @@
+.container {
+    .navbar {
+        min-height: 100px;
+        overflow: hidden;
+        .navbar-brand {
+            margin-right: 0;
+            vertical-align: middle;
+            border: 0;
+            float: left;
+        }
+        .top-menu {
+            margin: 28px 0px 0px;
+            .nav-link {
+                padding: 10px 15px;
+                text-decoration: none;
+                color: #0076bf;
+            }
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width: 767px;
+        .navbar {
+            min-height: 100px;
+            overflow: hidden;
+            .navbar-brand {
+                margin-right: 0;
+                vertical-align: middle;
+                border: 0;
+                float: left;
+            }
+            .top-menu {
+                margin: 28px 0px 0px;
+                .nav-link {
+                    padding: 10px 15px;
+                    text-decoration: none;
+                    color: #0076bf;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 991px) and (min-width:768px) {
+    .container {
+        max-width: 991px;
+        min-width: 768px;
+        .navbar {
+            min-height: 100px;
+            overflow: hidden;
+            .navbar-brand {
+                margin-right: 0;
+                vertical-align: middle;
+                border: 0;
+                float: left;
+            }
+            .top-menu {
+                margin: 28px 0px 0px;
+                .nav-link {
+                    padding: 10px 15px;
+                    text-decoration: none;
+                    color: #0076bf;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1199px) and (min-width:992px) {
+    .container {
+        max-width: 1199px;
+        min-width: 992px;
+        .navbar {
+            min-height: 100px;
+            overflow: hidden;
+            .navbar-brand {
+                margin-right: 0;
+                vertical-align: middle;
+                border: 0;
+                float: left;
+            }
+            .top-menu {
+                margin: 28px 0px 0px;
+                .nav-link {
+                    padding: 10px 15px;
+                    text-decoration: none;
+                    color: #0076bf;
+                }
+            }
+        }
+    }
+}
