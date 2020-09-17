@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Multi-Language-App-Using-React-Hooks/static/css/main.9a50f153.chunk.css",
+    "main.js": "/Multi-Language-App-Using-React-Hooks/static/js/main.654f6c35.chunk.js",
+    "main.js.map": "/Multi-Language-App-Using-React-Hooks/static/js/main.654f6c35.chunk.js.map",
+    "runtime-main.js": "/Multi-Language-App-Using-React-Hooks/static/js/runtime-main.e1b7f43c.js",
+    "runtime-main.js.map": "/Multi-Language-App-Using-React-Hooks/static/js/runtime-main.e1b7f43c.js.map",
+    "static/js/2.17766f4e.chunk.js": "/Multi-Language-App-Using-React-Hooks/static/js/2.17766f4e.chunk.js",
+    "static/js/2.17766f4e.chunk.js.map": "/Multi-Language-App-Using-React-Hooks/static/js/2.17766f4e.chunk.js.map",
+    "index.html": "/Multi-Language-App-Using-React-Hooks/index.html",
+    "precache-manifest.c558ed858f78b4f27e6907cc5bbbbc25.js": "/Multi-Language-App-Using-React-Hooks/precache-manifest.c558ed858f78b4f27e6907cc5bbbbc25.js",
+    "service-worker.js": "/Multi-Language-App-Using-React-Hooks/service-worker.js",
+    "static/css/main.9a50f153.chunk.css.map": "/Multi-Language-App-Using-React-Hooks/static/css/main.9a50f153.chunk.css.map",
+    "static/js/2.17766f4e.chunk.js.LICENSE.txt": "/Multi-Language-App-Using-React-Hooks/static/js/2.17766f4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b7f43c.js",
+    "static/js/2.17766f4e.chunk.js",
+    "static/css/main.9a50f153.chunk.css",
+    "static/js/main.654f6c35.chunk.js"
+  ]
+}
